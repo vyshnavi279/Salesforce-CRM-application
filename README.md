@@ -17,5 +17,5 @@ Validation Flow (data accuracy)
 Salesforce (Lightning,Flows, Validation Rules)
 
 📞 Contact:
-For queries, email your-yvyshnavi279@gmail.com 
+For queries, email yvyshnavi279@gmail.com 
 
